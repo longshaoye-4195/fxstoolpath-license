@@ -1,14 +1,14 @@
 {
   "ver": 1,
-  "iat": "2026-10-20T15:28:44.1089948Z",
-  "note": "签发于 2026-10-20 23:28 | 客户 1 台",
+  "iat": "2026-10-20T15:51:38.5415294Z",
+  "note": "签发于 2026-10-20 23:51 | 客户 1 台",
   "grants": [
     {
       "hwid": "BCA42A34F1DCFA883DF75A156C9AFC09CD36F374EE25C5ECEDC361E27A385663",
       "cust": "冯",
       "exp": "2026-10-21T15:08:51Z",
-      "rev": false
+      "rev": true
     }
   ],
-  "sig": "UgNRDDFz4H5rQsY5DvIEY/x3Nzh0tSrTaZsKb2VY0IJrqQ+jg43LgnYY7zqke+2I8svmmrK2oTreHDqGL49iOgWmz0Lmf03t0XaG3MGp+H3T5DToEcnV1tj5yiDKT63ATM7BLFkUqUmvSeyNkMX/kaTGO1iphvMryPkPzmx6LBNDzU3fR1l1nxe/VO9/cTbAA4i4On4a1YbFT5ePRs1nwon43uw3hNoBw0CvJou6EU864JqTlO9QGFUFcfyWrBDnghDGO7NWzSAVtoYXiOr9QcQapch8s9SgRoa9cmvywKwMryEnST22optL/winOviXSUZoDBGElCYdBwqYpmQtTg=="
+  "sig": "H3H+auz17E+n1cdwWWcclK0KRhiHJAGSrnQTjCLmqbX2lQsXdto/RSTAS08tqchhrGvXKo/mPn462KpiySbfQ4+NbIHSIiH8xeyAQDm+Am2jOpzMmpcSDQGnA/xkkeUvxFFTkERXJWI0uB6tWo+1L74tFRSjd/aM9d/eqIE9881LfI5LFnA+t+7MeQFghQWEAi57bnWiqlt5pkcauNWlasA6zyN43QF4LIFjd1Se0JY5BAu40LID7df58P8uR8zvIv1d/P/upOCxc+r+mioq84QXHTZxZndircCgXTQWGg14uYeM7GON5oSVY4jX4lEZ7BBmLgvCwIzRwStNxHCSDw=="
 }
