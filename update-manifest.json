@@ -1,10 +1,10 @@
 {
   "ver": 1,
-  "pluginVer": "9.1.1",
-  "file": "plugin/FXSToolpathMachining_v9.1.1.dll",
+  "pluginVer": "9.1.2",
+  "file": "plugin/FXSToolpathMachining_v9.1.2.dll",
   "sha256": "f2372380376813d9b7404af3badc9b45741b7297e653fe51277d6994c71609cf",
   "size": 580096,
-  "note": "测试专用",
-  "date": "2026-10-21T05:40:39.1255977Z",
-  "sig": "oC9oYsINU7e3T+57ht62O65+V1vsapi59114r5t6+LRq/evNUDIme3gcNEw/xPsnCIR2Og0EVcR/axRbIogSbUG+dzwxcegglxtnFyJ3BOk0yGn3pLbQK0Zy3PpU7vRkRU7WPJA5nYp4gjwai0BSj4Fe9wT5d8lt3wM2R8bCJmP+5oLoKm3dyQVZ7M4DvlRjrkjxj5MXFlcUGc/W0fdEgYMadC0EdpXR2ENkcNzkkJr6FR1DQBqn5dqRgN7R5PY6kwGe7bVZpPzNhZSq2WZSVpXksCr7DBWd1teOnZyr2PaJFY5twQu13LJh4RJk7QI3qM+thRalzRnjYkro/mVgug=="
+  "note": "内部测试",
+  "date": "2026-10-21T05:51:46.3165729Z",
+  "sig": "W//XzSqd1Nfw7D9iAdZZWIR+wezm2ut4LFGsXGn5rSsz4f08Z+immEY4rccPi8gzdPbGIPdlMgtAvWFEB68yUSJKzJ+sIy6i/UYkKDPmS8BsoIdwlyOapMaizse9UYSkoExyTrVopuEy6iOpNW0feO2qoTUiRYlhX2ONRrNHRMIYbroXBzTPl5R2xEwGUCsq4z7f07tHRQWL0923YBDTIzO6E7COpVtnLJZyecchByUFUlG25qAsiikqVjsnNHnol2xBnBMynANw4EWDGAC0ao11EI/xwvvo48vibybpoTtcZgCyYViOq92LknYB+HmJhX4FF9aI71GLtZR5PwgiOQ=="
 }
