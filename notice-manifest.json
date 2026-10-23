@@ -1,9 +1,9 @@
 {
   "ver": 1,
-  "iat": "2026-10-23T06:26:11.1673538Z",
-  "nid": "N1023-142316",
-  "title": "停服通知",
-  "body": "现通知，Alphacam 定制插件将于2026年10月20日终止服务，停止全部配套支持。已下载版本可本地自用，但不再提供更新、bug 修复。感谢长期以来的支持。",
+  "iat": "2026-10-23T06:34:39.5338892Z",
+  "nid": "N1023-143350",
+  "title": "停服通知【测试】",
+  "body": "现通知，Alphacam 定制插件将于【____年__月__日】终止服务，停止全部配套支持。已下载版本可本地自用，但不再提供更新、bug 修复。感谢长期以来的支持。",
   "level": "low",
-  "sig": "Mg4PB00+EVvCZsG7Xd1tqsheCc+OZ5+Q3SHqUhO7z9Vcg6EvIfso83HL4ATZCQqwNu/oAbPut1eWcx5blRfSd6wZWsl8spwu5iN5gJt2r6dPD1jbA5QSI1ryQSdplx3kI0wQLPlIt+oS6REtOYrn4FKDUGXWCFqdnni4YDtLq7K+nlVgu2c90SeZbScPP/QB1sn00yeSeyvASDBoVsEqLVGiDjLFACYoiDknMEVd6udg1zswGEM6CT9LRZk3AUcQ6/IFz6vqRl4/GYHAFszYCG8kbeeW5kqMihFHW4+H4EYJWrNKRbRtKV2J3Fx+rNmv+SjwGzHSg4MPoslOyJKutg=="
+  "sig": "VEWPC/UZjJ8VCY+MkPvdEr4iQl+U6lkfvKZ11Q9DNWJBciZG+SlLyaicGIdaSrcv+qLK0FMe6joDH4EBOQuTZlZDOflTDAHsRfmoPsgiq1bGM8k2f25bQzD+CukYcj7nJhqYkHd9s1BxlR8HaVgAPR8KY53e7GKOopjPQAsIIVr/xHsdWtzkbZtYZVYhOnM2UIHZ6N6sZHa/MkfxHDigQQeKRqdeiRwnPnX/2dQoHZLtxH4fWucYcyVn00UOYybKFd3csnHCS1uS2Er5MOaRlgRdsOmQnxbAJ5WixxOuAusTy9Z1F+jGGSrrblQQBwowLmz0YSVgkjFzmUc1MQfDfQ=="
 }
