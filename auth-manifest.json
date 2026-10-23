@@ -1,20 +1,14 @@
 {
   "ver": 1,
-  "iat": "2026-10-23T15:29:58.5249776Z",
-  "note": "签发于 2026-10-23 23:29 | 客户 2 台",
+  "iat": "2026-10-23T15:32:00.1458193Z",
+  "note": "签发于 2026-10-23 23:32 | 客户 1 台",
   "grants": [
     {
       "hwid": "SDFGDSGFDHGRFGAWSDS",
       "cust": "测试",
       "exp": "2026-11-20T00:41:46.3464416Z",
       "rev": false
-    },
-    {
-      "hwid": "BCA42A34F1DCFA883DF75A156C9AFC09CD36F374EE25C5ECEDC361E27A385663",
-      "cust": "冯",
-      "exp": "2026-10-30T15:29:55.436557Z",
-      "rev": false
     }
   ],
-  "sig": "PcT1ZTA23dh1A0hWlCdT1g5fKDZ4ESbz1HnbLtgzGDfkgPdo1q46kPvaaBYb8Xc1tVPFV91iyOK7SuHyq8aHjsJNUO6U/Y5YKiOhuoAPklTtK9speOP5RAwk92RydL1ikp6HaIlXI8ew2sQEpv26rNXyX8zRd05qLYGFcrhUtp73XqBW7b/I9IyHREStX/PCDP16mGzcimEP7LgXoRWMtYxmDdKE1ofji9bydu/oIqWy86tif7C3znPG85P0XvaPU8gPDw47hYcg0ajq6jEVo+hQilUCX983Fl63W0SHTIu4XgPT00b0MojoUjSRPiSvP4McHCmWVDPvCt64L3aPxw=="
+  "sig": "JvMpWmzSgqkhH6j/y7XmIuXjEdyrxqCemzZyEtloin7DLTDRqsY71B8s3HYyliZpN0c9fZH1zTNIfAiFxRfaTIWcvmqH/caOB3Y9Rz6cQqqoFqXp4DkXHNm9TOC6YfM2gcSNdftm+mNaY01r74e4uHifk2pMp3PTuOuVxOPgI2D4U9eZL+co6eiqah0MxxCZeywq5RD9grh576IlrJq6ygtuqiy3pQ7qYKTS/X9L2UIvUd3q8AC7j+vunZ4OzvfPQxu0/TkJJtu7jTYA1De18n8EEUAkb9DJl8jIUunuCSSD2PysISenECvuNNX9e4QKiRpykaghGuSW7PvNd8mmGA=="
 }
