@@ -1,10 +1,10 @@
 {
   "ver": 1,
-  "pluginVer": "9.1.1",
-  "file": "plugin/FXSToolpathMachining_v9.1.1.dll",
-  "sha256": "be68bcb339987b9f5c4c4a95a51534ef935a18028ab992f4ecb06e314bdbe3db",
-  "size": 992768,
-  "note": "版本 9.1.1",
-  "date": "2026-10-22T11:58:51.8002454Z",
-  "sig": "evh4Qg/764MeyN1g5lsI5WotHUM/f48qsHON3kyLxW3dRloIzR1r17KbEk2iLmHkM4Q6J/wh/7YNfjxlyq/OC9YyN+tkWNyHiw4Cj8qGDpmgLjCKP70+mzFxO3T404LZ60fe/crwkuyogfiyjO5wDV03blmG8KGnwuSFKFRjHFsEtfHK4RjzhmH4WRNkBtCNNkXHcI7usz8psGb+W2bDcF14j1hi2XtRpC+lX8geJT2YTGl9VfzzKi/C6p3Os0qWLqeibhccOXvEoKLJQYJPVlDXPHl8CEH4qoI+t4LFfvYHYtVPtYNg39FJg4zd7R7mGXz3qhM1MsOdLdUV343hdA=="
+  "pluginVer": "9.2.0",
+  "file": "plugin/FXSToolpathMachining_v9.2.0.dll",
+  "sha256": "bf283ea2c0a0b902f42e73d8d1045724c192a21815702b66c460977289f3ea47",
+  "size": 1361920,
+  "note": "新增多色排版合并功能，目前是内测版本，先试如果用有问题请联系冯先生或Q群里反馈，感谢使用！",
+  "date": "2026-10-25T04:17:37.3175315Z",
+  "sig": "tJ8fTFlNxWOhri8Io4Xc/90EcnEmluTvANpuizf805+A35TaScqPmeyFotqlq/SVUG+Gi7uXkByoboQzdVgKCaD8rKyepeKCVM2W8ABAZZqGYfAwGZN06ue5Z+eG/EMWSW/TwDoFe3heHpgVWbXxMgQi3IIpWjZTOXEyglekAcRrUn9Yn+4WX4MTGklfUORuEt592FsP0UFcOqdys6IHNjkY2PyZU2VLWF/fj/C9mw5hjqeIgQ/Ax3xjV9EaUAESSsMMG/cLWBwYTdSk1aoXJrR9QgOa7rvelvQEMj27HmZ0VLBTLn3PI6kX+MOE5hltdbk9b98rFcs3npmZ+kWGHQ=="
 }
