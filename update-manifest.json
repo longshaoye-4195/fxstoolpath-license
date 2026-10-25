@@ -1,10 +1,10 @@
 {
   "ver": 1,
-  "pluginVer": "9.2.0",
-  "file": "plugin/FXSToolpathMachining_v9.2.0.dll",
-  "sha256": "bf283ea2c0a0b902f42e73d8d1045724c192a21815702b66c460977289f3ea47",
-  "size": 1361920,
-  "note": "新增多色排版合并功能，目前是内测版本，先试如果用有问题请联系冯先生或Q群里反馈，感谢使用！",
-  "date": "2026-10-25T04:17:37.3175315Z",
-  "sig": "tJ8fTFlNxWOhri8Io4Xc/90EcnEmluTvANpuizf805+A35TaScqPmeyFotqlq/SVUG+Gi7uXkByoboQzdVgKCaD8rKyepeKCVM2W8ABAZZqGYfAwGZN06ue5Z+eG/EMWSW/TwDoFe3heHpgVWbXxMgQi3IIpWjZTOXEyglekAcRrUn9Yn+4WX4MTGklfUORuEt592FsP0UFcOqdys6IHNjkY2PyZU2VLWF/fj/C9mw5hjqeIgQ/Ax3xjV9EaUAESSsMMG/cLWBwYTdSk1aoXJrR9QgOa7rvelvQEMj27HmZ0VLBTLn3PI6kX+MOE5hltdbk9b98rFcs3npmZ+kWGHQ=="
+  "pluginVer": "9.2.1",
+  "file": "plugin/FXSToolpathMachining_v9.2.1.dll",
+  "sha256": "523cc2d834777a0aa0c6d98dbfb3f6a6c53a47c92403b46915cac033eb6b7970",
+  "size": 1363456,
+  "note": "修复多色排版匹配2026版本的兼容问题问题",
+  "date": "2026-10-25T06:29:27.2172485Z",
+  "sig": "iiKB+fXVnqFMta6x38BeH941WGbKZLlJ5hweH1uh/kXofO8hA/k+m+1dy0+9wnPxF1tNsgwk26RvJO7ebRVpv99wLtlu2sRJ+pKB20ly/WTJJE1Bojdw8yFNRKGdhmOcSdoRkbveEvAKdih0sJtF6wqVTDQruVmMKLPZPBlk9UT8HZUQjw1nsyJOzWjKLqPf7p7pJQflG1ArRtXVA0Xzc+Qw5D38re/5T1LMKjKaev5ovcIzamh/64dFfnXl+YEqbtkme2puPzThwSxS267N8pJXVel3Ldl3HTRZ8gQ0SrXe+V4J/uQIQK+YrK1hIICZVMJnVUlFHGgU5zyDw28Sdw=="
 }
