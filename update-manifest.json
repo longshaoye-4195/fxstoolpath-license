@@ -1,10 +1,10 @@
 {
   "ver": 1,
-  "pluginVer": "9.2.1",
-  "file": "plugin/FXSToolpathMachining_v9.2.1.dll",
-  "sha256": "523cc2d834777a0aa0c6d98dbfb3f6a6c53a47c92403b46915cac033eb6b7970",
-  "size": 1363456,
-  "note": "修复多色排版匹配2026版本的兼容性问题",
-  "date": "2026-10-25T06:29:27.2172485Z",
-  "sig": "iiKB+fXVnqFMta6x38BeH941WGbKZLlJ5hweH1uh/kXofO8hA/k+m+1dy0+9wnPxF1tNsgwk26RvJO7ebRVpv99wLtlu2sRJ+pKB20ly/WTJJE1Bojdw8yFNRKGdhmOcSdoRkbveEvAKdih0sJtF6wqVTDQruVmMKLPZPBlk9UT8HZUQjw1nsyJOzWjKLqPf7p7pJQflG1ArRtXVA0Xzc+Qw5D38re/5T1LMKjKaev5ovcIzamh/64dFfnXl+YEqbtkme2puPzThwSxS267N8pJXVel3Ldl3HTRZ8gQ0SrXe+V4J/uQIQK+YrK1hIICZVMJnVUlFHGgU5zyDw28Sdw=="
+  "pluginVer": "9.2.4",
+  "file": "plugin/FXSToolpathMachining_v9.2.4.dll",
+  "sha256": "c634813e8dbcef1fda71ddf4e40c399c5ce20a34d91ea0f4e981f7808f1bfbc2",
+  "size": 1482752,
+  "note": "多色排版模块里新增板材自动入库功能。修复UI文字遮挡。",
+  "date": "2026-10-26T00:12:28.9564611Z",
+  "sig": "5XpfD0zxOFNrIYXHzUtbfpYCCZOlNFhyMqn6xt0vLHq4YHz1RtRaxkIzp4YTw03hMCWrlDL2KTd3E4DRYZ47z9h9lTfr9cqJqeRGSMArt6lctcvMrGcTH0ljG1WEsH0EuC5b6Vkmv3+RNDNm/V4WlF8UktMAt+m/KhdSvjX9MWzaiQkCdPbTQbO3IN5iThEmsxYcpkZZALTPDUXjOPWFzpG9pHMj6nMyV6S6MSwv6wPKm3ipMrSx93e1YgHTyYATW5capjy5+GMqcbiFA9e6L75F4F725WkpC7cfjSs2DOz8jRlNJ1GTS1loxlcpz/LuUYWDwKbGBayZDbQ1uEPxLA=="
 }
