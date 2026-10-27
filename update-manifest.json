@@ -1,10 +1,10 @@
 {
   "ver": 1,
-  "pluginVer": "9.2.6",
-  "file": "plugin/FXSToolpathMachining_v9.2.6.dll",
-  "sha256": "443e555352c4322988d5d3f09c7198f0043ab827fd9e9d15df8b8d578b3086c9",
-  "size": 1573376,
-  "note": "修复选取CSV对话框取消卡顿问题",
-  "date": "2026-10-27T02:44:35.916392Z",
-  "sig": "BlBsosDSD5KytAnHcT6RGmLs1ZPAItf0r7oHpebbl9yzxM0+mCU9DVc0UU09yfaTy1Ve6wmUjiQtThRpe+wXBNMXSXy7Zt2X5bnQ2xvZx6a1flBmaNfqCrdnj8Mc0nqwxy6jlwkXfNGgKGPdUbV1ogKi5btCK+0a7ld7YfdbkwR7yBiCx146SHK/pGb1JUJacJj6g/oNOPlwoaXPi+X6AdQWXkXe2YoZuM0+tX4fhfTNITBS7rnsf/dq7W2RVCfPeYzDc72oE0rjKgn/EsPHfUHHFICVknavzv5XHTknRXAMjbSiLz2NaJA24IqxGeSbU3K89zDSyFaDZhrzbX7s3A=="
+  "pluginVer": "9.2.7",
+  "file": "plugin/FXSToolpathMachining_v9.2.7.dll",
+  "sha256": "bec70f55154c88dfac46217e364649d85571447f7a32a354ddc316621d94823b",
+  "size": 2145280,
+  "note": "导入表格自动同步材料库（缺板补建/尺寸纹路逐板确认/一键取消导入），新增同步设置，修复首次导入尺寸与纹路问题",
+  "date": "2026-10-27T13:15:51.3748859Z",
+  "sig": "3IlAcsNdmf23BoJXc7tzdFyaYCJ0eIvScZN4824CMeMIQHboVTjcE/2X6KgtVcpVKVvvu43Ygu/qIT0pa7P7gox3/zQmtFcFCLEmIOGUOPt6U48ipLgCQhbHxEzS70+Ng0cYEO1g4tVui4ZSUtCUS/WqkA4ACX1eZuqDOMzHgrsV33AS/nCKDlwVvlh8Tta0zgy8yOAOrEsJcEwa07X47XqFCSv48tuzGUOAyVfqccvjbie5N6mQD3YjKGuD7x72dkhU2FIsP3pUips/M5ESW0eslcpEXLzsUyFtZPvWXUAvAZqOGAlbkPQslKBL2SCvck9kv3nb5Lzbt434HZ6eqw=="
 }
