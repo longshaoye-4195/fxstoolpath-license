@@ -1,10 +1,10 @@
 {
   "ver": 1,
-  "pluginVer": "9.2.5",
-  "file": "plugin/FXSToolpathMachining_v9.2.5.dll",
-  "sha256": "ebae09ca58b5ac098f3aae8d4760d98452aaf2ae27a29e911dbd7d77bbcb4ab7",
-  "size": 1531904,
-  "note": "修复已知问题",
-  "date": "2026-10-26T04:13:46.7596228Z",
-  "sig": "WlEHRgxsEI8RYXu0c3OBbGpOQGAsgKuVZk6pAh1KnlcEhfbDyOkO4ycc6C1p5kCmWcuFVNGAlB5ZKuT7PM5Ng6bLAFKOtwM/kLJBkcgd2RqNbKYVI7TKv+kU9jTcgFwrpwIOenSyBgf46ZGzxAm8PytZZYmV4z4cYdtRCoy+ZxuhNSZ9XkZcq8LWIvOf8OzCvPrhOq8OBjUIhRBb8VO6QGSmb95+31qu3b/jrTHpTqaFagb69elciONuxgwrS73mBMU4eLd32GTrbc+Xk/Ksgkph4Xk0tD3asqXXZDcFQvv84pJOPUx3cjW0+LvTLwa9G8dqhzGXuyOSFogoUwVqFg=="
+  "pluginVer": "9.2.6",
+  "file": "plugin/FXSToolpathMachining_v9.2.6.dll",
+  "sha256": "443e555352c4322988d5d3f09c7198f0043ab827fd9e9d15df8b8d578b3086c9",
+  "size": 1573376,
+  "note": "修复选取CSV对话框取消卡顿问题",
+  "date": "2026-10-27T02:44:35.916392Z",
+  "sig": "BlBsosDSD5KytAnHcT6RGmLs1ZPAItf0r7oHpebbl9yzxM0+mCU9DVc0UU09yfaTy1Ve6wmUjiQtThRpe+wXBNMXSXy7Zt2X5bnQ2xvZx6a1flBmaNfqCrdnj8Mc0nqwxy6jlwkXfNGgKGPdUbV1ogKi5btCK+0a7ld7YfdbkwR7yBiCx146SHK/pGb1JUJacJj6g/oNOPlwoaXPi+X6AdQWXkXe2YoZuM0+tX4fhfTNITBS7rnsf/dq7W2RVCfPeYzDc72oE0rjKgn/EsPHfUHHFICVknavzv5XHTknRXAMjbSiLz2NaJA24IqxGeSbU3K89zDSyFaDZhrzbX7s3A=="
 }
