@@ -1,10 +1,10 @@
 {
   "ver": 1,
-  "pluginVer": "9.2.7",
-  "file": "plugin/FXSToolpathMachining_v9.2.7.dll",
-  "sha256": "bec70f55154c88dfac46217e364649d85571447f7a32a354ddc316621d94823b",
-  "size": 2145280,
-  "note": "导入表格自动同步材料库（缺板补建/尺寸纹路逐板确认/一键取消导入），新增同步设置，修复首次导入尺寸与纹路问题",
-  "date": "2026-10-27T13:15:51.3748859Z",
-  "sig": "3IlAcsNdmf23BoJXc7tzdFyaYCJ0eIvScZN4824CMeMIQHboVTjcE/2X6KgtVcpVKVvvu43Ygu/qIT0pa7P7gox3/zQmtFcFCLEmIOGUOPt6U48ipLgCQhbHxEzS70+Ng0cYEO1g4tVui4ZSUtCUS/WqkA4ACX1eZuqDOMzHgrsV33AS/nCKDlwVvlh8Tta0zgy8yOAOrEsJcEwa07X47XqFCSv48tuzGUOAyVfqccvjbie5N6mQD3YjKGuD7x72dkhU2FIsP3pUips/M5ESW0eslcpEXLzsUyFtZPvWXUAvAZqOGAlbkPQslKBL2SCvck9kv3nb5Lzbt434HZ6eqw=="
+  "pluginVer": "9.2.8",
+  "file": "plugin/FXSToolpathMachining_v9.2.8.dll",
+  "sha256": "43b8af6a5c18df2648d9180925268e57ccc5cb0bf00bacb72af65be94a27c11e",
+  "size": 2189312,
+  "note": "修改重大BUG",
+  "date": "2026-10-28T01:25:05.5552585Z",
+  "sig": "2GuNBKQqhJqGKdnolIy/iMpHkprjAZVzt4sZ8WSSCoiB2/IRHjHyqm0x/374F5orpIbhAekalQI2mE93pJGB3ZGnbfyrpXP1VyxuwoVfX/3Yn3HPqPt3Re9z1ky0CAIBolu0YrFIzdUM+tk7+79NQXMSp5wusfwt5aTaFBwdrUwikZU0gp04A5Bo164YGr/4LSmcei5CvPxa6HL/xUTtHyBcrpAwEIHiK6Uo75XkX5CTV1rhmFWUl6d/sUapQ73DwL3wL5mNeLu2uEpPNKCdO9L6D/sJL16aZgLigQA8f2Svpoy6CmodBLxNkYkySxbAJF8OJngNVmM3foAF3SY9tQ=="
 }
