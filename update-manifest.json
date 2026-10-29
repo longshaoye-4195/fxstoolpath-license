@@ -1,10 +1,10 @@
 {
   "ver": 1,
-  "pluginVer": "9.3.0",
-  "file": "plugin/FXSToolpathMachining_v9.3.0.dll",
-  "sha256": "b0500fae9cbbc46a300e7f08f1637c9d92867641d9b84ef2fc3cca8fa370eee4",
-  "size": 2729472,
-  "note": "新增尺寸和门型标注，排版前去除模板自带尺寸标注，统一规划显示样式和位置。",
-  "date": "2026-10-29T01:19:32.0752699Z",
-  "sig": "vOhzoOguZ2nNUjxxnlf5PEeGHbrcnJBGxAFsI6yktP8K70+Whyvpl2UPh5bHe2WnWNSDHkjgHZ2qARLpQ3bP9+g0QlPAlRAixLq3PmlGA0jq/gSnocj0R7WMDmAJj5Wny2ayGL9tU67vv2C34CE1VR1p4n9btlp9RTOSjopMp+K2HkpNYXTbrAyJheKzY1lMxVWYkZRV9/xw78lR+8KTDlHfrnk6PZ591hrqcejJsUpwLBsoDC0p4JX500lTttrrIjrzaMhxySTzaWVDNrignNUIjbSQL0U+VQalQ2uVYttMN72ZXpkmYVUx5yDEfMpZ9mybkFcKihU9kQ0J0YLQfw=="
+  "pluginVer": "9.3.1",
+  "file": "plugin/FXSToolpathMachining_v9.3.1.dll",
+  "sha256": "58717cd46d0561318085ac61253d2b5655491323ede2943cb6f048c64bf88d57",
+  "size": 2788352,
+  "note": "修复已知问题",
+  "date": "2026-10-29T10:29:31.2156237Z",
+  "sig": "lVJFrRHnW5fxQ07ZZA58zaaiucqjMlNn7n3fiQhFRIobTZZijilrvzstVDJGy5/re7ou2ZnUchoMY5oTy63TDaL+PnpYXWC1JFiZp4krOM5mjL9G2PM0y4QTsmJdG6Wjc6am5BPmcC1DcGgJY+bKgtJndCkrf3445mHv7Z8Q9Z1PZO/8KTIvWuTK2FjwiRjoScAIERrB+0MDgL8cq20Fjt5XKHCrQUGTLSjifmu5rAIAGSKtN0f/gnJEb43d1Jq5DaysIyl0I3sFGXusG+XtmkoLdv1dBL0+tSI8qq9b2GNhRvbNr+wWr6MxTzx1eE+u8rhXe/t5a0DO3KiFSC0OSg=="
 }
