@@ -2,9 +2,9 @@
   "ver": 1,
   "pluginVer": "9.3.1",
   "file": "plugin/FXSToolpathMachining_v9.3.1.dll",
-  "sha256": "6c39a959d0a643cc48a0d2eed43bae01c3aa756dafa148db655938e9afedae26",
-  "size": 2262528,
+  "sha256": "c2c1438702250ff8fbadca53933c23d1d0d285a9e35e1e3429cdfbc98b3bbe0d",
+  "size": 2260480,
   "note": "修复已知问题",
-  "date": "2026-10-29T11:55:39.6998615Z",
-  "sig": "d4iLbYvfUtXhFfEYGeM2sqmx8npM/kzVOiO8zQS4+iFEdKflRWa7xfX0Wa9z2G841ZFOJq8F9C7s5s435vcnyXW19B7d+jnKsrFM6ehpLu3XScLqkXcnc7bNOqDGM693IPgbB9t0oWyMhLT0MPtdsIU0Oay9CIvxhHVp6mTuKZzNmMapXhQh405ikCzip8JgUatpjBmw9pmJx3R90KtgO5mdzFssW5JAGXVe3+ctahTJkoPHWpl6Ake6HzQ0VrBmZCGtwysS+iXtu7Hch9Jv+QtL7sTVBg53VEh/SxB9Fl9V9ocL5jQ7uA479zwDxN0gMu1nUUKCxCvNp4zQRlLj2g=="
+  "date": "2026-10-29T12:27:06.2236195Z",
+  "sig": "Ms9kQSsve7nmkF0A8noTwJwseaPK1HHRQ9cjsegTML5Guvit1TSBVL2XIvkeKn8MPW4+V/E1bJQw40GHfvs07oy9dLkzQritb8SfU7p6eAZ4NvqLCDSKtQYdnbr0wB+RReuMibT22+l3Tz97tcXQGLTS+qyHf8jtuAl1KUU/QjNZW23IkCTSfVVjR4IAsBZJUlT0UBP0QivbwZsSjxr/snfCnQMQoOU/Qfu3BsHWNIyNGcLskrxFijPDkLWs/lvprM+C/mqWF5dx3aH8Aw62AjS6uhAozB2yfoeJ10Wk0owpgIa/v9MiBZlfHkx/4EA0yDqHdPNhVL1W0/+UfXb/Kg=="
 }
