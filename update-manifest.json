@@ -1,10 +1,10 @@
 {
   "ver": 1,
-  "pluginVer": "9.3.1",
-  "file": "plugin/FXSToolpathMachining_v9.3.1.dll",
-  "sha256": "c2c1438702250ff8fbadca53933c23d1d0d285a9e35e1e3429cdfbc98b3bbe0d",
-  "size": 2260480,
-  "note": "修复已知问题",
-  "date": "2026-10-29T12:27:06.2236195Z",
-  "sig": "Ms9kQSsve7nmkF0A8noTwJwseaPK1HHRQ9cjsegTML5Guvit1TSBVL2XIvkeKn8MPW4+V/E1bJQw40GHfvs07oy9dLkzQritb8SfU7p6eAZ4NvqLCDSKtQYdnbr0wB+RReuMibT22+l3Tz97tcXQGLTS+qyHf8jtuAl1KUU/QjNZW23IkCTSfVVjR4IAsBZJUlT0UBP0QivbwZsSjxr/snfCnQMQoOU/Qfu3BsHWNIyNGcLskrxFijPDkLWs/lvprM+C/mqWF5dx3aH8Aw62AjS6uhAozB2yfoeJ10Wk0owpgIa/v9MiBZlfHkx/4EA0yDqHdPNhVL1W0/+UfXb/Kg=="
+  "pluginVer": "9.3.2",
+  "file": "plugin/FXSToolpathMachining_v9.3.2.dll",
+  "sha256": "5df587c4f87e96042040d170bb3881973ab700ea565992224bc630b91fc7b4e1",
+  "size": 2265088,
+  "note": "修复在线授权假离线（清单新鲜度死锁）；远程运维下载提速（连接池+CDN+断块重传）",
+  "date": "2026-10-30T03:46:38.6479604Z",
+  "sig": "MFiNCTVNwnJ8OQ2+EpTlMD2mnWDptPLVycv/ymwW/z/AIbJZHiVnrqo5zln/gW82bJygca4bcW8VfWTAZCmjrebRvWMema88xErrHBLARViyVLoTwVmAmrH8HC2AxK/VNaMHtjN3ZkYNrFbO1TQbJQM31SJ6qRqeoV9twyJASB3iBDnNJdY4ru9tKWXfazN3aby+JcpdWfGf91ehTyTXWXnM1nd/Bfmz5Cnyu9toNFt+YdAGNTamqkssx9qehiDleHSZcp4KBl6X8sQXe/zCsrO6jKTtE9gl/tX3JFCCNH/YfdK89HujKoNvVWbPMYyPikgw+FW0zjKhXOxej4f9Wg=="
 }
