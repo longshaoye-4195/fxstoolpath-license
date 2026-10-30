@@ -4,7 +4,7 @@
   "file": "plugin/FXSToolpathMachining_v9.3.2.dll",
   "sha256": "5df587c4f87e96042040d170bb3881973ab700ea565992224bc630b91fc7b4e1",
   "size": 2265088,
-  "note": "修复在线授权假离线（清单新鲜度死锁）；远程运维下载提速（连接池+CDN+断块重传）",
-  "date": "2026-10-30T03:46:38.6479604Z",
-  "sig": "MFiNCTVNwnJ8OQ2+EpTlMD2mnWDptPLVycv/ymwW/z/AIbJZHiVnrqo5zln/gW82bJygca4bcW8VfWTAZCmjrebRvWMema88xErrHBLARViyVLoTwVmAmrH8HC2AxK/VNaMHtjN3ZkYNrFbO1TQbJQM31SJ6qRqeoV9twyJASB3iBDnNJdY4ru9tKWXfazN3aby+JcpdWfGf91ehTyTXWXnM1nd/Bfmz5Cnyu9toNFt+YdAGNTamqkssx9qehiDleHSZcp4KBl6X8sQXe/zCsrO6jKTtE9gl/tX3JFCCNH/YfdK89HujKoNvVWbPMYyPikgw+FW0zjKhXOxej4f9Wg=="
+  "note": "修复离线问题",
+  "date": "2026-10-30T03:55:59.0525392Z",
+  "sig": "P4SDvRG6qYIKUDydY3FcojW5FiydPP1wZOwHfRRse7zv7K9fWhXnxwpP1QuKakYEd3pyLbN/muuFbTXZRRXTDhvCB9beIcvX0mvzVjgLyQiPAXwwqkNo1Hy3LPeKLyTLqDNd7ubFO17av8rs9G5QaQ/senQ1IS/K/PnbdgShv3gdyir9uUEC8oOGmlNfm57yj3P2KrnViW7CkPzvPLmppsd7VwBUTt7kf/OYEBECHAJGQ2L/CpE2My2WjZ52wsUNHVd9BnFD3v9CS3lU0aCvwVbFvNE7NqD0fAYRvb6fGiMiYTLZywS4c8wrxFXyMcnecXH9NpFqc5PUbw9XniezgQ=="
 }
