@@ -1,10 +1,10 @@
 {
   "ver": 1,
-  "pluginVer": "9.3.3",
-  "file": "plugin/FXSToolpathMachining_v9.3.3.dll",
-  "sha256": "be6dabeccaa4ae43febfab2c1869a821269eda10b06fa34b920e3dbdfb1e46fd",
-  "size": 2259968,
-  "note": "修复授权到期/恢复来回抖动（CDN 节点缓存新旧不一，现无条件采用 API 权威清单）",
-  "date": "2026-10-31T12:04:18.4155039Z",
-  "sig": "46smLbr4EYCNhk/rQQUb1gfSIWif3755e1O0KtkYldJBbu/T+EKEb4rn9NKbsEhXo+pEw303Osbm1bq6uF0eCfxRrR5yixwPW06aEg4EM57xcXoNjM897BbEHWwcFAnfRxzArld/tlXLZLsAmSJUKRIzJ4RqMlrnWXDBOit4s05q8m0maQYpQoy4l64U5lifXxmiqxMglc2fbAA9JDqB8G1vDY/OVE4AHkJMlsL0ZnBsy6A+IxDuXuC6stE6yLqZ3aznkTcXqiJ8MddqDTS87LDi7oIkDhpzz9raUSSU1n2q+KN1rJiu9v8tfS6JTUmVFJUQ2mJCP1BqFdW/Sh64Sw=="
+  "pluginVer": "9.3.4",
+  "file": "plugin/FXSToolpathMachining_v9.3.4.dll",
+  "sha256": "767f0ca91f7e14426f9890855b718e16e0a1aa4df481ebed9f8dd9cbd65cd05d",
+  "size": 2280960,
+  "note": "在线更新增加进度窗：下载阶段+实时字节进度，失败可重试",
+  "date": "2026-10-31T12:43:50.6238698Z",
+  "sig": "PELDNw+Es2nJN17Q1gITJnjy5l60AIsg2tW2fg4N841gID0ZBbgH7f1NhMzI7CudfAmm/48oHWshkigkd7addoEh2onBormiz3H/uy0l7VIiRSqg6+Y8Q1qVuWUL9RECupX4l+cscSgP572U7QkSfDVllOH4ynxCTl3ZyEYdUNUFiaYFpHsbbJh54UZDXxK5gr5YzD0GukDi37MdF1R4wDd10fBRTYuy8kXVL8aj8nx40y3Xc9YFdqrYsiMZGt2kMreh3mNuWw0rm5GrhdPE6P/cYVhkUqlU33ntCDlw3lv3HS4QwkPb950OZSK/BPCn8EsWfGXUVUeg64qEodOiXQ=="
 }
