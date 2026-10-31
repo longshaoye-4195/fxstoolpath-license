@@ -1,10 +1,10 @@
 {
   "ver": 1,
-  "pluginVer": "9.3.2",
-  "file": "plugin/FXSToolpathMachining_v9.3.2.dll",
-  "sha256": "5df587c4f87e96042040d170bb3881973ab700ea565992224bc630b91fc7b4e1",
-  "size": 2265088,
-  "note": "修复离线问题",
-  "date": "2026-10-30T03:55:59.0525392Z",
-  "sig": "P4SDvRG6qYIKUDydY3FcojW5FiydPP1wZOwHfRRse7zv7K9fWhXnxwpP1QuKakYEd3pyLbN/muuFbTXZRRXTDhvCB9beIcvX0mvzVjgLyQiPAXwwqkNo1Hy3LPeKLyTLqDNd7ubFO17av8rs9G5QaQ/senQ1IS/K/PnbdgShv3gdyir9uUEC8oOGmlNfm57yj3P2KrnViW7CkPzvPLmppsd7VwBUTt7kf/OYEBECHAJGQ2L/CpE2My2WjZ52wsUNHVd9BnFD3v9CS3lU0aCvwVbFvNE7NqD0fAYRvb6fGiMiYTLZywS4c8wrxFXyMcnecXH9NpFqc5PUbw9XniezgQ=="
+  "pluginVer": "9.3.3",
+  "file": "plugin/FXSToolpathMachining_v9.3.3.dll",
+  "sha256": "be6dabeccaa4ae43febfab2c1869a821269eda10b06fa34b920e3dbdfb1e46fd",
+  "size": 2259968,
+  "note": "修复授权到期/恢复来回抖动（CDN 节点缓存新旧不一，现无条件采用 API 权威清单）",
+  "date": "2026-10-31T12:04:18.4155039Z",
+  "sig": "46smLbr4EYCNhk/rQQUb1gfSIWif3755e1O0KtkYldJBbu/T+EKEb4rn9NKbsEhXo+pEw303Osbm1bq6uF0eCfxRrR5yixwPW06aEg4EM57xcXoNjM897BbEHWwcFAnfRxzArld/tlXLZLsAmSJUKRIzJ4RqMlrnWXDBOit4s05q8m0maQYpQoy4l64U5lifXxmiqxMglc2fbAA9JDqB8G1vDY/OVE4AHkJMlsL0ZnBsy6A+IxDuXuC6stE6yLqZ3aznkTcXqiJ8MddqDTS87LDi7oIkDhpzz9raUSSU1n2q+KN1rJiu9v8tfS6JTUmVFJUQ2mJCP1BqFdW/Sh64Sw=="
 }
