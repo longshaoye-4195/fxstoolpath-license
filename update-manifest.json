@@ -2,9 +2,9 @@
   "ver": 1,
   "pluginVer": "9.3.4",
   "file": "plugin/FXSToolpathMachining_v9.3.4.dll",
-  "sha256": "767f0ca91f7e14426f9890855b718e16e0a1aa4df481ebed9f8dd9cbd65cd05d",
-  "size": 2280960,
+  "sha256": "48eec0b75957e3b6e22608c9c7380561d7cab4631cc8c62f5b6b9e3a813b2406",
+  "size": 2286080,
   "note": "在线更新增加进度窗：下载阶段+实时字节进度，失败可重试",
-  "date": "2026-10-31T12:43:50.6238698Z",
-  "sig": "PELDNw+Es2nJN17Q1gITJnjy5l60AIsg2tW2fg4N841gID0ZBbgH7f1NhMzI7CudfAmm/48oHWshkigkd7addoEh2onBormiz3H/uy0l7VIiRSqg6+Y8Q1qVuWUL9RECupX4l+cscSgP572U7QkSfDVllOH4ynxCTl3ZyEYdUNUFiaYFpHsbbJh54UZDXxK5gr5YzD0GukDi37MdF1R4wDd10fBRTYuy8kXVL8aj8nx40y3Xc9YFdqrYsiMZGt2kMreh3mNuWw0rm5GrhdPE6P/cYVhkUqlU33ntCDlw3lv3HS4QwkPb950OZSK/BPCn8EsWfGXUVUeg64qEodOiXQ=="
+  "date": "2026-10-31T13:00:35.2300834Z",
+  "sig": "gab5d1cKbmNC63ck7ZppvloC99v9AMQTfHtuN7uqctb6sRZzedI2rVF8vCUi1yS5CuX2xBREA+WwKmRfNiOoa+RJI/EmEa2hMLhn0ZJ3IUwDI0yz0s40SzWfAXpy1xSaJC1Q/9SMfaGXtLeppusw77f9fUORxpWJNGGHq0LSmFKoFjpV1UMSqRi6+nMdIW4uxgUsZKZ0pllJJC1RACev6Zo4W2/LeJlfWc19e2espeRf3kZ1fZprWrS3kkAP1FNbAk0gscxAoS7RDHj7rjRhSsIogVNt0wl83VVYr8Z676Ufe4FPRhQso0Nvmyqwg24OS0xNynuXc4N7/n3BPiDCkw=="
 }
