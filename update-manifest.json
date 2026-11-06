@@ -1,10 +1,10 @@
 {
   "ver": 1,
-  "pluginVer": "9.3.4",
-  "file": "plugin/FXSToolpathMachining_v9.3.4.dll",
-  "sha256": "48eec0b75957e3b6e22608c9c7380561d7cab4631cc8c62f5b6b9e3a813b2406",
-  "size": 2286080,
-  "note": "在线更新增加进度窗：下载阶段+实时字节进度，失败可重试",
-  "date": "2026-10-31T13:00:35.2300834Z",
-  "sig": "gab5d1cKbmNC63ck7ZppvloC99v9AMQTfHtuN7uqctb6sRZzedI2rVF8vCUi1yS5CuX2xBREA+WwKmRfNiOoa+RJI/EmEa2hMLhn0ZJ3IUwDI0yz0s40SzWfAXpy1xSaJC1Q/9SMfaGXtLeppusw77f9fUORxpWJNGGHq0LSmFKoFjpV1UMSqRi6+nMdIW4uxgUsZKZ0pllJJC1RACev6Zo4W2/LeJlfWc19e2espeRf3kZ1fZprWrS3kkAP1FNbAk0gscxAoS7RDHj7rjRhSsIogVNt0wl83VVYr8Z676Ufe4FPRhQso0Nvmyqwg24OS0xNynuXc4N7/n3BPiDCkw=="
+  "pluginVer": "9.4.0",
+  "file": "plugin/FXSToolpathMachining_v9.4.0.dll",
+  "sha256": "586d5fae8a24b4ec45a729f4cb3e2082cfbdb01b406a5379aad01e156d3d2cb1",
+  "size": 2891264,
+  "note": "新增排版报告和小条先切功能，新增悬浮球功能",
+  "date": "2026-11-06T02:02:35.0647058Z",
+  "sig": "oLbP0kUd42CmEyD2W61RjwaDAUSWMFv++IPmz1/fhlP6KZYVWjZ4Uud+a7lSCQW/IYcX62GQMhDvgCNrXj4Y1WsA+6Vw5JYClvtS4fnPgsfSePtPaUbwLjQ1xEHdVy0okmoFdonrMx1TAjrytgYtsfBTBCjVAS883Pqs0kyoFf3aA1TB/jdZLCuhiigiWRncrtm399cK1OSMZHSIPtgcStcDhobdrDrUEsKWu4C0uO2ciZqCPM5PkLJKl2CVg1blPslXSPPuN9UkcEcGwpEA5s/VbHA5U2Ttt8lJHPTssYbPLMlAtdzZfYBL4jZXjKnrJsb5t8s0CqLzcNRc6Vorrw=="
 }
