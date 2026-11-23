@@ -1,10 +1,10 @@
 {
   "ver": 1,
-  "pluginVer": "9.4.0",
-  "file": "plugin/FXSToolpathMachining_v9.4.0.dll",
-  "sha256": "37e7a72c05cb5bd9124a1fff58d3954a3ad9039b73e37c90ae363376a5ecc20a",
-  "size": 2914816,
-  "note": "新增排版报告和小条先切功能，新增悬浮球功能",
-  "date": "2026-11-06T10:11:11.4028345Z",
-  "sig": "a+3VPpm6r0w3Q6Zv0YTDxUVXX0G1Wfqoza/nHmqoKhekONipB0Jrgepokrz8EeWuendNU/cRpsZAXgYv+52XOR9wiJA/Gu9yZreM8wqolej1GPVFekRj8oy9npPdUkowZOIBnknmGMgN6G6eEGNlNUQk7iofJJu+DcdnmHm/Ag7sp+ISi6T4czLMnk8p6u0vXiqxjUVs68W/ym28IQ8Pjd8b95HHXBmVdqkM5SdkqFm70rptXVCrtorkD7yy8g/Evu3KLUmXO2gYpaj1lARVWwXVnLgTHRpx0xip6GdnoP083c7+aoOtCeCh3s+uCbGVWwEJOqNzAhCqMD27GPfJ/g=="
+  "pluginVer": "9.5.1",
+  "file": "plugin/FXSToolpathMachining_v9.5.1.dll",
+  "sha256": "46901c4d135b60d2685f4342b25650efa732bdb15dc0a23229db6d0181171320",
+  "size": 6789632,
+  "note": "新增小条，标签提取，引力释放，优化门型查找，支持编辑刀路，门型预览，绘图区运行......",
+  "date": "2026-11-23T06:35:34.095722Z",
+  "sig": "ksiW4W3FtvYd8IxRsZGTMqS2J4N/mfkijlLgh9tQHuZSDX2oXupPOY2PYsEaVfwxOpSVPRghtxMJG/chWGRayABM6z2u1NSkBV0X5i+whmYl55Gc5VSEPAcDFdXJB0+UUHV1KCd6Vz+wXAXkk4/SENmyZzRI0Ba8OcL1DR0CJyEOUy7EXw86Vv9T6HoLE+LkCAyTBTOnK0TlobwXAYHBqyoZrF7YuCnaJ1OneDVUCCmUKNOy5HXn4IS/jLB3UZEJKMqTpIgIcji7QKeyE/xsog/OGe+7RMEEowp+AdCTvN2ibKwRupyn8kWUH738LkDrfATpBiK1NM6+7NKLQEnQBw=="
 }
