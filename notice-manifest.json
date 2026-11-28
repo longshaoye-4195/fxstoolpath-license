@@ -1,0 +1,9 @@
+{
+  "ver": 1,
+  "iat": "2026-11-28T13:40:26.5819423Z",
+  "nid": "N1128-211613",
+  "title": "持续进化 —— 你的插件，我们一直在打磨",
+  "body": "尊敬的客户：\r\n\r\n您好！\r\n\r\n您长期使用 FXSToolpathMachining 插件。自上线以来，我们收到许多来自生产一线的反馈，并据此持续对插件进行优化与更新\r\n\r\n我们始终认为，一款真正好用的工具，不是交付那天就结束，而是在您每天的使用中不断变好。因此我们保持不定期更新的节奏，围绕实际生产中的痛点持续改进，包括但不限于：\r\n\r\n反面排版：按刀判定、空板跳过、修方提速、路径微调\r\nNC 输出：正面 / 反面分离后处理，自动按板拆分命名\r\n工件标签：信息提取与条码输出\r\n门型查找、旧图迁移、小条先切、应力预铣等生产功能的稳定性与效率\r\n每一次更新，都是为了让您的生产更顺、更省、更稳\r\n\r\n关于版本更新 新版本将择期发布，届时我们会第一时间通知您。升级方式简单：关闭 AlphaCAM，运行安装程序即可，原有配置与授权自动保留，无需重新设置",
+  "level": "low",
+  "sig": "re29X59tvDlE71y7OXpwvCFaHZWx+NdO+S/XOvgWne03iOGBA+0BxdIoX0IivPAA+DwUw9rZgjOP1iOgionQq+pxwx/MXfGS3RvAnZbBrwtcnOPIK4428U7gdPoJoAQpBK7RhVpRvJ31wepitBTpiXkjFkbHfajDHucdD7OrcX9Q55E7K62CEUzcBt/6cwY/uQnNGw9x1rv3FF/cC1YOvZphoC33r0aGRsrmaqROsyp582IcmDPzQUY3kWmwk0Zz+r7KeMaIkkUKE71Ml0l88nJ77TbH3D7ynq1w9VgrSNcVnJAI3A3esZHRzc0kFvRXF9MOlGjF6cnNG8MpPd7ENg=="
+}
